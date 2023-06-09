@@ -7,3 +7,5 @@
 - Python 3.10
 - pandas, sqlite3 and plotly libraries
 - SQL(ite) and its DB Brower
+
+### See pdf for given instructions for this assignment and notebook(.ipynb) files for the resolution, answers and visualisations.
